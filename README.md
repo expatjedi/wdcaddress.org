@@ -21,7 +21,7 @@ generated in a web browser.
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The blkaddress.org project, software and embedded resources are
+The wdcaddress.org project, software and embedded resources are
 copyright wdcaddress.org.
 
 Portions of the all-in-one HTML document contain JavaScript codes that
@@ -41,7 +41,7 @@ window.BigInteger |	BSD License
 window.QRCode | MIT License
 window.Bitcoin | MIT License
 
-The blkaddress.org software is available under The MIT License (MIT)
+The wdcaddress.org software is available under The MIT License (MIT)
 
 Copyright (c) 2011-2022 bitaddress.org
 Copyright (c) 2022 wdcaddress.org
